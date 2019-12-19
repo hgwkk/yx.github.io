@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>photo</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<div id="react">
+    <div class="out_frount">
+        <img src="imges/1.JPG" class="out_pic">
+    </div>
+    <div class="out_back">
+        <img src="imges/2.JPG" class="out_pic">
+    </div>
+    <div class="out_left">
+        <img src="imges/3.JPG" class="out_pic">
+    </div>
+    <div class="out_right">
+        <img src="imges/4.JPG" class="out_pic">
+    </div>
+    <div class="out_top">
+        <img src="imges/5.JPG" class="out_pic">
+    </div>
+    <div class="out_bottom">
+        <img src="imges/6.JPG" class="out_pic">
+    </div>
+    <span class="in_frount">
+        <img src="imges/7.JPG" class="in_pic">
+    </span>
+    <span class="in_back">
+        <img src="imges/8.JPG" class="in_pic">
+    </span>
+    <span class="in_left">
+        <img src="imges/9.JPG" class="in_pic">
+    </span>
+    <span class="in_right">
+        <img src="imges/10.JPG" class="in_pic">
+    </span>
+    <span class="in_top">
+        <img src="imges/11.JPG" class="in_pic">
+    </span>
+    <span class="in_bottom">
+        <img src="imges/12.JPG" class="in_pic">
+    </span>
+</div>
+</body>
+</html>
